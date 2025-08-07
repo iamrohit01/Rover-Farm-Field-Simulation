@@ -20,7 +20,7 @@ The simulation is animated using `matplotlib` in Python, and the rover’s movem
 
 ## 🔧 Features
 
-- ✅ Complete area coverage algorithm (zigzag/lawnmower pattern)
+- ✅ Complete area coverage algorithm 
 - ✅ Obstacle avoidance
 - ✅ Animated path tracing
 - ✅ Fully customizable field size, speed, and obstacles
