@@ -1,4 +1,4 @@
-# 🚜 Rover Farm Field Simulation
+#  Rover Farm Field Simulation
 
 This project simulates an autonomous rover navigating a rectangular farm field using a **zigzag (lawnmower) path**, avoiding obstacles, and covering the entire field area from a starting point to an endpoint.
 
@@ -6,7 +6,7 @@ The simulation is animated using `matplotlib` in Python, and the rover’s movem
 
 ---
 
-## 🧠 What It Does
+##  What It Does
 
 - Models a 2D farm field using a grid.
 - Simulates a rover starting from a defined point.
@@ -18,7 +18,7 @@ The simulation is animated using `matplotlib` in Python, and the rover’s movem
 
 ---
 
-## 🔧 Features
+##  Features
 
 - ✅ Complete area coverage algorithm 
 - ✅ Obstacle avoidance
@@ -28,7 +28,7 @@ The simulation is animated using `matplotlib` in Python, and the rover’s movem
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
