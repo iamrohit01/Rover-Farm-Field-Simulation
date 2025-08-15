@@ -33,4 +33,4 @@ The simulation is animated using `matplotlib` in Python, and the rover’s movem
 ### Prerequisites
 
 - Python 3.x
-- Jupyter Notebook or JupyterLab (recommended)
+- Jupyter Notebook or JupyterLab
