@@ -6,7 +6,7 @@ The simulation is animated using `matplotlib` in Python, and the rover’s movem
 
 ---
 
-##  What It Does
+##  What It Does:
 
 - Models a 2D farm field using a grid.
 - Simulates a rover starting from a defined point.
