@@ -24,11 +24,7 @@ The simulation is animated using `matplotlib` in Python, and the rover’s movem
 - ✅ Obstacle avoidance
 - ✅ Animated path tracing
 - ✅ Fully customizable field size, speed, and obstacles
-- ✅ Modular structure for future AI/ML upgrades or alternative pathfinding algorithms (A*, RRT, etc.)
-
----
-
-##  Getting Started
+- ✅ Modular structure for future AI/ML upgrades or alternative pathfinding algorithms
 
 ### Prerequisites
 
